@@ -1,0 +1,24 @@
+{
+  // languages configuration
+  // Python | TS | JS
+  "languages": {
+    // add ty when it'll be served
+    "Python": {
+      "language_servers": ["ruff", "pyright"],
+      "formatter": [
+        {
+          "code_actions": {
+            "source.organizeImports.ruff": true,
+            "source.addMissingImports.ruff": true,
+            "source.sortImports.ruff": true
+          }
+        },
+        {
+          "language_server": { "name": "ruff" }
+        }
+      ]
+    },
+    // Language server protocol
+    "lsp": {}
+  }
+}

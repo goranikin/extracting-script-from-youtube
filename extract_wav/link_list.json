@@ -1,0 +1,631 @@
+{
+  "comments": "uv run yt-dlp --flat-playlist -J \"https://www.youtube.com/@RyanLPeterman/videos\" > extract_wav/link_list.json",
+  "id": "UCzB7YGrrxDC_POenf86H3_Q",
+  "channel": "Ryan Peterman",
+  "channel_id": "UCzB7YGrrxDC_POenf86H3_Q",
+  "title": "Ryan Peterman - Videos",
+  "availability": null,
+  "channel_follower_count": 16800,
+  "description": "Staff Eng at @instagram, sharing helpful, interesting info for software engineers\n\n@ryanlpeterman everywhere (Instagram, Twitter/X, Threads, Linkedin)\n",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/c4ZqBhPimS8OoFpCSWS59zyBGiPqAhmzz7UxHSxWEfc9dzHJKjP5LpbQRmU-vQ0Ek4eDhzcK8A=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ytc/AIdro_kCqRLvJy8gnJxpETdXRj9Ii4eiiQUei7N4WHmvFREE_Sos=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ytc/AIdro_kCqRLvJy8gnJxpETdXRj9Ii4eiiQUei7N4WHmvFREE_Sos=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@RyanLPeterman",
+  "uploader_url": "https://www.youtube.com/@RyanLPeterman",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 12,
+  "uploader": "Ryan Peterman",
+  "channel_url": "https://www.youtube.com/channel/UCzB7YGrrxDC_POenf86H3_Q",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "QUhC5BDZt-E",
+      "url": "https://www.youtube.com/watch?v=QUhC5BDZt-E",
+      "title": "Instagram Principal Engineer (IC8) on Promotions, Breaking Prod, Tech Leading | Jake Bolam",
+      "description": "Jake Bolam grew from Staff Eng (IC6) to Principal Eng (IC8) at Instagram. He had some hot takes about diff reviews and risk (he accepts diffs that\u2019ll break prod). He also shared interesting...",
+      "duration": 3026.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/QUhC5BDZt-E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3pea_u_A9fcbrrOsf7mBLGsi5zg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QUhC5BDZt-E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCcUIVTkqRQ3rLHQrqeIDLlfzEMQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QUhC5BDZt-E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJMFxW-jmD2jy-pRnkhN6UpyUasA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QUhC5BDZt-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkMF34-QM5kACryQVaO_0WW3wTVQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 93091,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "v2JxdjTi_1I",
+      "url": "https://www.youtube.com/watch?v=v2JxdjTi_1I",
+      "title": "OpenAI & Meta Distinguished Engineer (IC9) On Working With Zuck, Carmack & Career Growth | Philip Su",
+      "description": "Philip Su grew to Distinguished Engineer (IC9) at Meta and OpenAI. He has a bunch of interesting stories about working with people like Zuck and John Carmack as well as a ton of advice for...",
+      "duration": 4841.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/v2JxdjTi_1I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLSE9uCJIcH3OLPDYbX_Bbk310Iw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/v2JxdjTi_1I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYi59vm9lVw1_D31aRAFSp_E2oDg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/v2JxdjTi_1I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaSbsHRchPVIySXcE5d-i-XQnwjg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/v2JxdjTi_1I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1now_sOzgLhrq9_3mSv7lF9CnLQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 221929,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "_ZJydseTOts",
+      "url": "https://www.youtube.com/watch?v=_ZJydseTOts",
+      "title": "Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)",
+      "description": "Ricky (Google Engineering Manager) and I were recently invited to give a talk at UCLA for the UPE/ACM clubs. We wanted to share the industry secrets that college didn\u2019t teach us about the...",
+      "duration": 2878.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_ZJydseTOts/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAErKKrnG6uPXLcf429Unc2lY4ORA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_ZJydseTOts/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIug-OwpqucqRoiD-eqW3qMYrcHQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_ZJydseTOts/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaW-8wqGkv6Zi69rUnNXZAfHea3A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_ZJydseTOts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmm2DaLDhT1fS4qAWvxE3zE48jdA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 16459,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "YIrHxxKkokw",
+      "url": "https://www.youtube.com/watch?v=YIrHxxKkokw",
+      "title": "Meta Staff Eng (IC6) Promotion by 28 | Rahul Pandey",
+      "description": "Rahul Pandey (@rpandey1234) grew to Staff at Meta by 28 through a few interesting legs of his career:\n\n\u2022 Stanford to Startup - He joined a startup that one of his professors was starting...",
+      "duration": 4273.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/YIrHxxKkokw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuT1s28c6e8wnEiFd9DgTbV29prw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YIrHxxKkokw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXZARMDoBeg_d992A3J8i4ZwYs8g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YIrHxxKkokw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmgccldAmoaC9Vf36jAXMjs_TNjw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YIrHxxKkokw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1wlYux7vnfyw1Dmj1Q4XyqHPfYw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 12779,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "LA9Nh8PyctM",
+      "url": "https://www.youtube.com/watch?v=LA9Nh8PyctM",
+      "title": "College Dropout Who Won 21 Hackathons (70% Win Rate) | Jia Chen",
+      "description": "Jia Chen is a 21 year old that won 21x hackathons and co-founded her own startup, all while being a content creator. She\u2019s worked hard to succeed in tech despite attending a non-target school,...",
+      "duration": 2068.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LA9Nh8PyctM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5S9gIWFjLD-QD7gg6I16wWUsxRQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LA9Nh8PyctM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCu4Wx2eTTcwpFb8UC4kPEqT1_CeA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LA9Nh8PyctM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1AbvDKReUDZiOEAZS0-YhyfSw7A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LA9Nh8PyctM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNRKX8bk3yFqq7bFJFt3M3u7jVaQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 4459,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "RN1Ls69hg5E",
+      "url": "https://www.youtube.com/watch?v=RN1Ls69hg5E",
+      "title": "Amazon Principal Engineer (L7) On Layoffs, Interviewing & Career Growth | Steve Huynh",
+      "description": "Steve Huynh became a software engineer at Amazon with a Liberal Arts degree. He started as a Support Engineer and eventually became a Principal Engineer (top ~1% at Amazon) before starting...",
+      "duration": 4729.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RN1Ls69hg5E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDapLQCL-7JIYIashx6xPRDWWpwjg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RN1Ls69hg5E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBReVI0HOZS5KAA6ZVaWRjlloq7Qw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RN1Ls69hg5E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF5FSQdMmqstvOxL7IXrKSSapu_w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RN1Ls69hg5E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3ezcbxAV9uEU67rp_ToqEOs7CJA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 176579,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "yZ4J98u7GLo",
+      "url": "https://www.youtube.com/watch?v=yZ4J98u7GLo",
+      "title": "25 Year Old Staff Eng @ Meta (Promotion Story)",
+      "description": "Evan King went from Junior (IC3) to Staff (IC6) at Meta 3 years out of college. After that he quit FAANG to start a few companies that were each acquired. In this conversation we go over his...",
+      "duration": 7036.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/yZ4J98u7GLo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjfsL-LwjPOFZr2ILmrXqJKc2s6Q",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yZ4J98u7GLo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCj1LcbK1l2Uq8fIeZBX1ky_20YXQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yZ4J98u7GLo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC00d4B8AiNBMdkJ7Ml48k5FFQtbw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yZ4J98u7GLo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf5fRXlArR4xmlMTSVhzDdDeHsqA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 65334,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "ReMzeQq-Ih0",
+      "url": "https://www.youtube.com/watch?v=ReMzeQq-Ih0",
+      "title": "28 Year Old Staff Eng @ Google Reveals His Promotions",
+      "description": "Ricky(@findingricky) went from Junior (IC3) to Staff (IC6) at Google by 28. He doesn\u2019t consider himself the best engineer, instead crediting his blend of technical and soft skills for his...",
+      "duration": 2520.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ReMzeQq-Ih0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCP0iTuVYh9DLbeAvVz3AWHaqHEcw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ReMzeQq-Ih0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDV6twm14WckqvKeIDeoQ6cXeogaQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ReMzeQq-Ih0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgftUQW2G4HmKNUpVYzsHFA7kerw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ReMzeQq-Ih0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsuLRxwDeRuz36tnfZbDpjJw5iCg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 63375,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "-ZuewJWJtCo",
+      "url": "https://www.youtube.com/watch?v=-ZuewJWJtCo",
+      "title": "Job Hopping to Staff at Airbnb by Age 26 | Zach Wilson",
+      "description": "Zach Wilson is an engineer who grew to Staff (IC6) at Airbnb by age 26. He worked at Meta, Netflix, Airbnb and more recently has started his own company. In our conversation, we discuss:\n\n\u2022...",
+      "duration": 4002.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-ZuewJWJtCo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjhEEHAH_2mvDtUK-BZmt_O4ZlzQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-ZuewJWJtCo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBP7KlQ4BAUVjB4AiCYPFpOcffVDw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-ZuewJWJtCo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-nTIIglvOyEG1BBmJVZJWH0pxw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-ZuewJWJtCo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwbBtmKNZWWxQEN8zqgy2Mg6fWdg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 49165,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "HVxmW0EcxV4",
+      "url": "https://www.youtube.com/watch?v=HVxmW0EcxV4",
+      "title": "Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)",
+      "description": "Live panel we did in Feb 2024 about how to get to Staff (IC6) at large tech companies. Video features 5 Staff Eng from companies like Google, Meta, Instagram, Airbnb, etc. speaking about how...",
+      "duration": 2981.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/HVxmW0EcxV4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDklx_lFNyD6HF48yvkTrh5Qw3u3g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HVxmW0EcxV4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuulpadGXgfHAKuyKX207JmnCr_Q",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HVxmW0EcxV4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBni_qk1kizgYZl-jk-AmwhpGyImw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HVxmW0EcxV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChA7Vma4i-ApjNluhnfZwIH8Iidg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 6164,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "bOG5GTM_yXs",
+      "url": "https://www.youtube.com/watch?v=bOG5GTM_yXs",
+      "title": "Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)",
+      "description": "Live panel we did in Sept 2023 about how to get to Staff (IC6) at large tech companies. Video features 5 Staff Eng from companies like Google, Meta, Instagram, Airbnb, etc. speaking about how...",
+      "duration": 4460.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bOG5GTM_yXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxSInlLK2E0wsH-2CDO8YLtJa7Gw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bOG5GTM_yXs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDS5uVd0fFMn4layvRRV8MpV00ljQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bOG5GTM_yXs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoBtveHuROo1S91JIcYMrRWkhD_A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bOG5GTM_yXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGYs9elTWsNy4gepDoKPjfFap9OA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3162,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "_4_w2urNZ8Y",
+      "url": "https://www.youtube.com/watch?v=_4_w2urNZ8Y",
+      "title": "What is a Staff Engineer? (Meta Staff Eng explains)",
+      "description": "Clip from Staff Engineering Panel | Check out the full panel here: https://youtu.be/HVxmW0EcxV4?si=5XrreHqFNoPG4jli\n\nThis was originally part of a live panel featuring 5 Staff Engineers from...",
+      "duration": 137.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_4_w2urNZ8Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6ik4erWTxgLrR3wEkSU4ConXNpg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_4_w2urNZ8Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCKrpmQSrYqVFLBT2czXMszBYPDA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_4_w2urNZ8Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBeOT1wUSbSenPAhIzSIXLinGe7A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_4_w2urNZ8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANkM8lOfhjgB9RrMEsLsNNubjYdg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 8091,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/@RyanLPeterman/videos",
+  "original_url": "https://www.youtube.com/@RyanLPeterman/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1751523652,
+  "__files_to_move": {},
+  "_version": {
+    "version": "2025.06.30",
+    "current_git_head": null,
+    "release_git_head": "b0187844988e557c7e1e6bb1aabd4c1176768d86",
+    "repository": "yt-dlp/yt-dlp"
+  }
+}
