@@ -4,7 +4,9 @@ class Transcriber:
         self.processor = processor
         self.device = device
 
-    def transcribe(self, audio_array, sampling_rate: int | float = 16000, chunk_sec=30):
+    def transcribe(
+        self, audio_array, sampling_rate: int | float = 16000, chunk_sec=30
+    ) -> list[str]:
         chunk_size = int(chunk_sec * sampling_rate)
         transcriptions = []
         for start in range(0, len(audio_array), chunk_size):
