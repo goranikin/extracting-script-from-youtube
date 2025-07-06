@@ -4,7 +4,7 @@ from transcriber import Transcriber
 
 
 def main():
-    audio_path = "audio_files/output_000.wav"
+    audio_path = "audio_files/test1.wav"
 
     audio_loader = AudioLoader()
     model_loader = ModelLoader()
