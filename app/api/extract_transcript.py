@@ -1,4 +1,3 @@
-import os
 from datetime import datetime
 
 from fastapi import APIRouter, HTTPException
@@ -18,7 +17,7 @@ router = APIRouter(
 
 class Transcript(BaseModel):
     youtube_url: str
-    transcript: str
+    transcript: list[str]
 
 
 def extract_audio(youtube_url, output_path):
@@ -49,7 +48,6 @@ def get_transcript(youtube_url: str):
         )
     try:
         results = transcribe_audio(base_output_path + ".wav")
-        transcript_str = " ".join(results)
     except Exception as e:
         raise HTTPException(
             status_code=500, detail=f"Failed to transcribe audio: {str(e)}"
@@ -57,5 +55,5 @@ def get_transcript(youtube_url: str):
 
     return Transcript(
         youtube_url=youtube_url,
-        transcript=transcript_str,
+        transcript=results,
     )
